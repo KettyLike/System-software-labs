@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\WORK\LAB4\L4\bin\Debug\L4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\WORK\LAB4\L4\bin\Debug\L4.exe
+   logfile = C:\WORK\LAB4\L4\bin\Debug\L4.InstallLog
+Installing service UDP-Server...
+Service UDP-Server has been successfully installed.
+Creating EventLog source UDP-Server in log Application...
+Committing assembly 'C:\WORK\LAB4\L4\bin\Debug\L4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\WORK\LAB4\L4\bin\Debug\L4.exe
+   logfile = C:\WORK\LAB4\L4\bin\Debug\L4.InstallLog
+Uninstalling assembly 'C:\WORK\LAB4\L4\bin\Debug\L4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\WORK\LAB4\L4\bin\Debug\L4.exe
+   logfile = C:\WORK\LAB4\L4\bin\Debug\L4.InstallLog
+Removing EventLog source UDP-Server.
+Service UDP-Server is being removed from the system...
+Service UDP-Server was successfully removed from the system.
+Installing assembly 'C:\WORK\LAB4\L4\bin\Debug\L4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\WORK\LAB4\L4\bin\Debug\L4.exe
+   logfile = C:\WORK\LAB4\L4\bin\Debug\L4.InstallLog
+Installing service WMI_subscription...
+Service WMI_subscription has been successfully installed.
+Creating EventLog source WMI_subscription in log Application...
+Committing assembly 'C:\WORK\LAB4\L4\bin\Debug\L4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\WORK\LAB4\L4\bin\Debug\L4.exe
+   logfile = C:\WORK\LAB4\L4\bin\Debug\L4.InstallLog

@@ -1,0 +1,9 @@
+C:\WORK\LAB3\L3\bin\Debug\L3.exe.config
+C:\WORK\LAB3\L3\bin\Debug\L3.exe
+C:\WORK\LAB3\L3\bin\Debug\L3.pdb
+C:\WORK\LAB3\L3\obj\Debug\L3.csproj.AssemblyReference.cache
+C:\WORK\LAB3\L3\obj\Debug\L3.csproj.CoreCompileInputs.cache
+C:\WORK\LAB3\L3\obj\Debug\L3.exe
+C:\WORK\LAB3\L3\obj\Debug\L3.pdb
+C:\WORK\LAB3\L3\obj\Debug\L3.ProjectInstaller.resources
+C:\WORK\LAB3\L3\obj\Debug\L3.csproj.GenerateResource.cache

@@ -1,0 +1,78 @@
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <stdlib.h>
+#include <ctime>
+#include <chrono>
+#include <thread>
+#include <map>
+#include <cstdio>
+
+void WriteLog(std::string filename, std::string message)
+{
+    time_t rawtime;
+    struct tm * timeinfo;
+    char buffer[80];
+    time(&rawtime);
+    timeinfo = localtime(&rawtime);
+    strftime(buffer, sizeof(buffer), "%d-%m-%Y %H:%M:%S", timeinfo);
+    std::string str(buffer);
+    std::ofstream file(filename, std::ios_base::app);
+    if (file)
+    {
+        file << str << "        " << message << std::endl;
+        file.close();
+    }
+}
+
+std::string ExecuteCommand(const char* cmd)
+{
+    char buffer[128];
+    std::string result;
+    FILE* pipe = popen(cmd, "r");
+    if (!pipe)
+        return "Error executing command!";
+    try
+    {
+        while (fgets(buffer, sizeof(buffer), pipe) != nullptr)
+        {
+            result += buffer;
+        }
+    }
+    catch (...)
+    {
+        pclose(pipe);
+        return "Error reading command output!";
+    }
+    pclose(pipe);
+    return result;
+}
+
+int main(void)
+{
+    std::string logFile = "KI-Marchenko.log";
+
+    std::ifstream infile(logFile);
+    if (!infile.good())
+    {
+        std::ofstream outfile(logFile);
+        if (outfile)
+        {
+            WriteLog(logFile, "Service started successfully!");
+            outfile.close();
+        }
+    }
+    else
+    {
+        WriteLog(logFile, "Service resumed!");
+    }
+
+    for (;;)
+    {
+        std::string commandOutput = ExecuteCommand("cat /proc/stat | grep cpu0");
+        WriteLog(logFile, commandOutput);
+        std::this_thread::sleep_for(std::chrono::seconds(6));
+    }
+
+    return 0;
+}

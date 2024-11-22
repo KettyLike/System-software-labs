@@ -1,0 +1,10 @@
+C:\WORK\LAB4\UDP-Client\bin\Debug\UDP-Client.exe.config
+C:\WORK\LAB4\UDP-Client\bin\Debug\UDP-Client.exe
+C:\WORK\LAB4\UDP-Client\bin\Debug\UDP-Client.pdb
+C:\WORK\LAB4\UDP-Client\obj\Debug\UDP-Client.csproj.AssemblyReference.cache
+C:\WORK\LAB4\UDP-Client\obj\Debug\UDP_Client.Form1.resources
+C:\WORK\LAB4\UDP-Client\obj\Debug\UDP_Client.Properties.Resources.resources
+C:\WORK\LAB4\UDP-Client\obj\Debug\UDP-Client.csproj.GenerateResource.cache
+C:\WORK\LAB4\UDP-Client\obj\Debug\UDP-Client.csproj.CoreCompileInputs.cache
+C:\WORK\LAB4\UDP-Client\obj\Debug\UDP-Client.exe
+C:\WORK\LAB4\UDP-Client\obj\Debug\UDP-Client.pdb

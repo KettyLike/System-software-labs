@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WORK\\LAB5\\L5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|c:\\work\\lab5\\l5\\page3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page6.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page6.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page7.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page7.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|C:\\WORK\\LAB5\\L5\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4537AF9C-AB9C-44F8-8A4F-03492EA8AF0F}|L5.csproj|solutionrelative:page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "page1.aspx.cs",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page1.aspx.cs",
+              "RelativeDocumentMoniker": "page1.aspx.cs",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page1.aspx.cs",
+              "RelativeToolTip": "page1.aspx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA3wEAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:13:10.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "page1.aspx",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page1.aspx",
+              "RelativeDocumentMoniker": "page1.aspx",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page1.aspx",
+              "RelativeToolTip": "page1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-15T02:08:23.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "page7.aspx.cs",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page7.aspx.cs",
+              "RelativeDocumentMoniker": "page7.aspx.cs",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page7.aspx.cs",
+              "RelativeToolTip": "page7.aspx.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:13:48.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "page7.aspx",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page7.aspx",
+              "RelativeDocumentMoniker": "page7.aspx",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page7.aspx",
+              "RelativeToolTip": "page7.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-15T01:13:44.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "page2.aspx.cs",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page2.aspx.cs",
+              "RelativeDocumentMoniker": "page2.aspx.cs",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page2.aspx.cs",
+              "RelativeToolTip": "page2.aspx.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAuwMIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:44:01.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "page2.aspx",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page2.aspx",
+              "RelativeDocumentMoniker": "page2.aspx",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page2.aspx",
+              "RelativeToolTip": "page2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-12T18:43:54.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "page6.aspx.cs",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page6.aspx.cs",
+              "RelativeDocumentMoniker": "page6.aspx.cs",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page6.aspx.cs",
+              "RelativeToolTip": "page6.aspx.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAkwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:09:51.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "page6.aspx",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page6.aspx",
+              "RelativeDocumentMoniker": "page6.aspx",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page6.aspx",
+              "RelativeToolTip": "page6.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-12T18:09:54.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "page5.aspx.cs",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page5.aspx.cs",
+              "RelativeDocumentMoniker": "page5.aspx.cs",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page5.aspx.cs",
+              "RelativeToolTip": "page5.aspx.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowIoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:42:27.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page5.aspx",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page5.aspx",
+              "RelativeDocumentMoniker": "page5.aspx",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page5.aspx",
+              "RelativeToolTip": "page5.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-12T16:42:23.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "page4.aspx.cs",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page4.aspx.cs",
+              "RelativeDocumentMoniker": "page4.aspx.cs",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page4.aspx.cs",
+              "RelativeToolTip": "page4.aspx.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:42:16.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page4.aspx",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page4.aspx",
+              "RelativeDocumentMoniker": "page4.aspx",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page4.aspx",
+              "RelativeToolTip": "page4.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-12T16:42:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page3.aspx.cs",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page3.aspx.cs",
+              "RelativeDocumentMoniker": "page3.aspx.cs",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page3.aspx.cs",
+              "RelativeToolTip": "page3.aspx.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAUwLQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:28:06.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "page3.aspx",
+              "DocumentMoniker": "C:\\WORK\\LAB5\\L5\\page3.aspx",
+              "RelativeDocumentMoniker": "page3.aspx",
+              "ToolTip": "C:\\WORK\\LAB5\\L5\\page3.aspx",
+              "RelativeToolTip": "page3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T23:27:49.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

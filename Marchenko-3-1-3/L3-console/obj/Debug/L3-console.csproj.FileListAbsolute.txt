@@ -1,0 +1,7 @@
+C:\WORK\LAB3\L3-console\bin\Debug\L3-console.exe.config
+C:\WORK\LAB3\L3-console\bin\Debug\L3-console.exe
+C:\WORK\LAB3\L3-console\bin\Debug\L3-console.pdb
+C:\WORK\LAB3\L3-console\obj\Debug\L3-console.csproj.AssemblyReference.cache
+C:\WORK\LAB3\L3-console\obj\Debug\L3-console.csproj.CoreCompileInputs.cache
+C:\WORK\LAB3\L3-console\obj\Debug\L3-console.exe
+C:\WORK\LAB3\L3-console\obj\Debug\L3-console.pdb

@@ -1,0 +1,9 @@
+C:\WORK\LAB4\L4\bin\Debug\L4.exe.config
+C:\WORK\LAB4\L4\bin\Debug\L4.exe
+C:\WORK\LAB4\L4\bin\Debug\L4.pdb
+C:\WORK\LAB4\L4\obj\Debug\L4.csproj.AssemblyReference.cache
+C:\WORK\LAB4\L4\obj\Debug\L4.ProjectInstaller.resources
+C:\WORK\LAB4\L4\obj\Debug\L4.csproj.GenerateResource.cache
+C:\WORK\LAB4\L4\obj\Debug\L4.csproj.CoreCompileInputs.cache
+C:\WORK\LAB4\L4\obj\Debug\L4.exe
+C:\WORK\LAB4\L4\obj\Debug\L4.pdb

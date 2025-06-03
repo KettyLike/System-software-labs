@@ -1,0 +1,7 @@
+C:\WORK_2\LAB1\SEARCH\bin\Debug\SEARCH.exe.config
+C:\WORK_2\LAB1\SEARCH\bin\Debug\SEARCH.exe
+C:\WORK_2\LAB1\SEARCH\bin\Debug\SEARCH.pdb
+C:\WORK_2\LAB1\SEARCH\obj\Debug\SEARCH.csproj.AssemblyReference.cache
+C:\WORK_2\LAB1\SEARCH\obj\Debug\SEARCH.csproj.CoreCompileInputs.cache
+C:\WORK_2\LAB1\SEARCH\obj\Debug\SEARCH.exe
+C:\WORK_2\LAB1\SEARCH\obj\Debug\SEARCH.pdb

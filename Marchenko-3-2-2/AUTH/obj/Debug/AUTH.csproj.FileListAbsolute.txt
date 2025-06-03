@@ -1,0 +1,10 @@
+C:\WORK_2\LAB2\AUTH\obj\Debug\AUTH.csproj.AssemblyReference.cache
+C:\WORK_2\LAB2\AUTH\obj\Debug\AUTH.Form1.resources
+C:\WORK_2\LAB2\AUTH\obj\Debug\AUTH.Properties.Resources.resources
+C:\WORK_2\LAB2\AUTH\obj\Debug\AUTH.csproj.GenerateResource.cache
+C:\WORK_2\LAB2\AUTH\obj\Debug\AUTH.csproj.CoreCompileInputs.cache
+C:\WORK_2\LAB2\AUTH\bin\Debug\AUTH.exe.config
+C:\WORK_2\LAB2\AUTH\bin\Debug\AUTH.exe
+C:\WORK_2\LAB2\AUTH\bin\Debug\AUTH.pdb
+C:\WORK_2\LAB2\AUTH\obj\Debug\AUTH.exe
+C:\WORK_2\LAB2\AUTH\obj\Debug\AUTH.pdb
